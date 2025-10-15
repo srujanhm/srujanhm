@@ -9,12 +9,12 @@ Welcome to my GitHub profile! I am an Electronics and Communication Engineering 
 - 💻 Interested in **Data Analytics, Machine Learning, and AI**  
 - 🌱 Currently learning **Python, Pandas, SQL, and Deep Learning**  
 - 📊 Aspiring to become a **skilled Data Analyst** and work on impactful projects  
-- 📫 Reach me at: [your-email@example.com]
+- 📫 Reach me at: [srujanhmgowda@gmail.com]
 
 ---
 
 ## Skills
-- **Programming:** Python, C, C++  
+- **Programming:** Python,sql
 - **Data Analytics & Visualization:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Machine Learning & AI:** TensorFlow, Keras, Scikit-learn  
 - **Tools & Platforms:** Jupyter Notebook, Git, GitHub, FastAPI  
@@ -24,17 +24,16 @@ Welcome to my GitHub profile! I am an Electronics and Communication Engineering 
 ## Projects
 Here are some of the projects I’ve worked on:  
 1. **Automated Identification of Herbarium Species** – Image classification of plant specimens using deep learning  
-2. **[Your Project Name]** – Brief description  
-3. **[Your Project Name]** – Brief description  
+2. **E-Commerce Analytics Dashboard** – An interactive dashboard that visualizes and analyzes e-commerce data, helping track sales, customer behavior, and key performance metrics for better business insights.
+3. **HR Attrition & Workforce Analytics** –A dashboard that analyzes employee attrition and workforce data, providing insights on turnover trends, retention risks, and overall HR performance.
 
 Check out my repositories for more projects and experiments.
 
 ---
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-- [GitHub](https://github.com/your-github-username)  
-- [Email](mailto:your-email@example.com)  
+- [LinkedIn](https:/www.linkedin.com/in/srujan-h-m)  
+- [Email](mailto:srujanhmgowda@gmail.com)  
 
 ---
 
